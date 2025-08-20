@@ -1,0 +1,10 @@
+{
+    "uum-rus": {
+        "input": "uum-rus-input.txt",
+        "mode": "uum-rus"
+    },
+    "rus-uum": {
+        "input": "rus-uum-input.txt",
+        "mode": "rus-uum"
+    }
+}
